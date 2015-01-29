@@ -5,14 +5,14 @@
 
     To get one, follow this link, follow the directions and press "Create" at the end:
 
-https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=02:02:45:CB:81:1E:20:88:7D:C8:DB:04:01:D3:0E:A4:67:4E:7D:76%3Bcom.gpsu.gpsu
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=B7:72:12:76:E2:2D:E2:0C:A3:95:D3:AB:BF:B6:5D:83:82:6A:BC:44%3Bcom.cis454.myapplication
 
     You can also add your credentials to an existing key, using this line:
-    02:02:45:CB:81:1E:20:88:7D:C8:DB:04:01:D3:0E:A4:67:4E:7D:76;com.gpsu.gpsu
+    B7:72:12:76:E2:2D:E2:0C:A3:95:D3:AB:BF:B6:5D:83:82:6A:BC:44;com.cis454.myapplication
 
     Once you have your key (it starts with "AIza"), replace the "google_maps_key"
     string in this file.
     --></string>
 
-    <string name="google_maps_key" templateMergeStrategy="preserve">AIzaSyDF3ktp6mfzasVzs6MOWVrYrjCKbMXLUbIc</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve">YOUR_KEY_HERE</string>
 </resources>
